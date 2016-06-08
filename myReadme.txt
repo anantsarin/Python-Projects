@@ -1,1 +1,3 @@
-********************8These games are created during the Python course in Coursera*************************
+******************** These games are created during the Python Learning*************************
+
+ 
