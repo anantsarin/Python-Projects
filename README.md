@@ -1,2 +1,4 @@
 # Python-Projects
-Python from Coursera
+Python Games
+
+Simple playstation and card games coded in python  
